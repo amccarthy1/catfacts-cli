@@ -1,4 +1,4 @@
-module github.com/amccarthy1/catcli
+module github.com/amccarthy1/catfacts-cli
 
 go 1.12
 
