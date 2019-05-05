@@ -1,4 +1,6 @@
-github.com/amccarthy1/catfacts v0.0.0-20190504222623-0c7d2ce87377 h1:Na8kr23U2FmKK+Je7PxgQDMirAAt+wICWcKguGIcV2E=
-github.com/amccarthy1/catfacts v0.0.0-20190504222623-0c7d2ce87377/go.mod h1:mhnWvtyBGKnb2EICw85Q2xDD6r+ZiQ3jw5c8hMy9xdQ=
 github.com/amccarthy1/catfacts v0.0.0-20190505024359-92b03df4d76f h1:pqD5hyzugLnNuoDhnnSU22efjHJ/zPxKPscyqULQN/k=
 github.com/amccarthy1/catfacts v0.0.0-20190505024359-92b03df4d76f/go.mod h1:mhnWvtyBGKnb2EICw85Q2xDD6r+ZiQ3jw5c8hMy9xdQ=
+github.com/amccarthy1/catfacts v0.1.0 h1:wFQZKVVXYn24Dn+TVSGN/1maILjT3Q0GIR0NqefG7JY=
+github.com/amccarthy1/catfacts v0.1.0/go.mod h1:mhnWvtyBGKnb2EICw85Q2xDD6r+ZiQ3jw5c8hMy9xdQ=
+github.com/amccarthy1/catfacts v1.0.0 h1:nJcn1QUcgpVj7IbWCUzXKtcG/fw47h/4XfcuJVyu0yA=
+github.com/amccarthy1/catfacts v1.0.0/go.mod h1:mhnWvtyBGKnb2EICw85Q2xDD6r+ZiQ3jw5c8hMy9xdQ=
